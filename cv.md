@@ -1,7 +1,7 @@
 # Ulukbek Kasymov
 - GitHub: [@kasymoff](https://github.com/kasymoff) 
 - Telegram: [@UlikKas](https://t.me/UlikKas)
-- Discord: [@Fakie](https://discord.gg/fakie)
+- Discord: [@Fakie](https://discord.gg/Fakie#6965)
 ## About me:
 ### I am a self-taught programmer. I like to create web-apps and web-sites. I have a passion for programming and I am always trying to improve my skills. Also like to work with the latest technologies and I am always trying to learn new things. My goal is to become a full-stack developer.
 ## Skills:
