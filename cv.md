@@ -1,4 +1,3 @@
-![avatar](https://avatars.githubusercontent.com/u/78161313?v=4)
 # Ulukbek Kasymov
 - GitHub: [@kasymoff](https://github.com/kasymoff) 
 - Telegram: [@UlikKas](https://t.me/UlikKas)
